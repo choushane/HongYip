@@ -1,0 +1,110 @@
+{
+  "weekly_plan": {
+    "1": {
+      "enabled": true,
+      "delays": [
+        0.8,
+        0.85,
+        0.9
+      ],
+      "facility": 1,
+      "times": "20:00,21:00",
+      "fallback_enabled": false,
+      "fallback_times": "13:00,14:00"
+    },
+    "2": {
+      "enabled": false,
+      "delays": [
+        0.8,
+        0.85,
+        0.9
+      ],
+      "facility": 1,
+      "times": "20:00,21:00",
+      "fallback_enabled": false,
+      "fallback_times": "13:00,14:00"
+    },
+    "3": {
+      "enabled": true,
+      "delays": [
+        0.8,
+        0.85,
+        0.9
+      ],
+      "facility": 1,
+      "times": "20:00,21:00",
+      "fallback_enabled": false,
+      "fallback_times": "13:00,14:00"
+    },
+    "4": {
+      "enabled": true,
+      "delays": [
+        0.8,
+        0.85,
+        0.9
+      ],
+      "facility": 1,
+      "times": "20:00,21:00",
+      "fallback_enabled": false,
+      "fallback_times": "13:00,14:00"
+    },
+    "5": {
+      "enabled": true,
+      "delays": [
+        0.8,
+        0.85,
+        0.9
+      ],
+      "facility": 3,
+      "times": "11:00,12:00",
+      "fallback_enabled": false,
+      "fallback_times": "13:00,14:00"
+    },
+    "6": {
+      "enabled": true,
+      "delays": [
+        0.8,
+        0.85,
+        0.9
+      ],
+      "facility": 1,
+      "times": "11:00,12:00",
+      "fallback_enabled": true,
+      "fallback_times": "13:00,14:00"
+    },
+    "7": {
+      "enabled": true,
+      "delays": [
+        0.8,
+        0.85,
+        0.9
+      ],
+      "facility": 3,
+      "times": "20:00,21:00",
+      "fallback_enabled": false,
+      "fallback_times": "13:00,14:00"
+    }
+  },
+  "accounts": [
+    {
+      "name": "Pc1123g",
+      "username": "Pc1123g",
+      "password": "56788"
+    },
+    {
+      "name": "PC0901h",
+      "username": "PC0901h",
+      "password": "123456"
+    },
+    {
+      "name": "pc1149B",
+      "username": "pc1149B",
+      "password": "11111"
+    },    
+    {
+      "name": "Pc0242e",
+      "username": "Pc0242e",
+      "password": "11111"
+    }
+  ]
+}
