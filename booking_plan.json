@@ -17,7 +17,11 @@
       "enabled": false
     },
     "3": {},
-    "4": {},
+    "4": {
+      "sport": "basketball",
+      "facility": 1,
+      "times": "19:00,20:00"
+    },
     "5": {
       "facility": 3,
       "times": "11:00,12:00"
